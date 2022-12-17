@@ -1,0 +1,52 @@
+function numpy = size + shape
+
+size: array =0 till n 
+shape: figure
+
+
+[]m.n * []m.m = []n.m
+
+
+2 4 8 16 32 64 128 256 ...... 1024
+
+0110= 6
+
+0100= 4
+
+001101101=109
+
+1-9
+
+test1
+
+import numpy as np
+a=np.arange (1132,99573)
+a.shape=(287,343)
+print (a)
+
+
+
+log 65354 .2
+
+
+
+900.871.435.687.906.547
+
+012358
+0+1=1+1=2+1=3+2=5+3=8+5=13+8=21+13=34
+
+
+
+print (27//5)- IF
+-------------------------------------------------------------------------
+
+EXErcises: 
+
+EXE1: SIZE 2^8 , Shape= ENUMB
+
+EXE2: HIST X,Y,Z CALL. 
+
+
+Mail. Github
+
+Email: Bahramim798@gmail.com
